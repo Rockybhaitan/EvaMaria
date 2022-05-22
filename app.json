@@ -12,11 +12,8 @@
       "media",
       "search",
       "channel",
-      "index",
-      "inline"
-    ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+      "index"https://github.com/Rockybhaitan/EvaMariahttps://github.com/Rockybhaitan/EvaMaria",
+    "repository": "https://github.com/Rockybhaitan/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
