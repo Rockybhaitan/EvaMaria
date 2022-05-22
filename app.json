@@ -12,7 +12,10 @@
       "media",
       "search",
       "channel",
-      "index"https://github.com/Rockybhaitan/EvaMariahttps://github.com/Rockybhaitan/EvaMaria",
+      "index",
+      "inline"
+    ],
+    "website": "https://github.com/Rockybhaitan/EvaMaria",
     "repository": "https://github.com/Rockybhaitan/EvaMaria",
     "env": {
         "BOT_TOKEN": {
